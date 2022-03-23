@@ -1,7 +1,7 @@
-PWD c:\Users\Dell\Documents\PhD\Semester 3\Pebelejaran Mesin Lanjut\Tugas
+PWD c:\Users\Dell\Documents\PhD\Semester 3\Pebelejaran Mesin Lanjut\Tugas\Laporan Eksplorasi
 INPUT C:\Users\Dell\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Dell\Documents\PhD\Semester 3\Pebelejaran Mesin Lanjut\Tugas\Tugas Perorangan.tex
-OUTPUT Tugas Perorangan.log
+INPUT c:\Users\Dell\Documents\PhD\Semester 3\Pebelejaran Mesin Lanjut\Tugas\Laporan Eksplorasi\Laporan Eksplorasi.tex
+OUTPUT Laporan Eksplorasi.log
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
@@ -22,9 +22,9 @@ INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfont
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT Tugas Perorangan.aux
-INPUT Tugas Perorangan.aux
-OUTPUT Tugas Perorangan.aux
+INPUT Laporan Eksplorasi.aux
+INPUT Laporan Eksplorasi.aux
+OUTPUT Laporan Eksplorasi.aux
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
@@ -49,40 +49,25 @@ INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx9.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi9.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy9.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti9.tfm
-OUTPUT Tugas Perorangan.pdf
+OUTPUT Laporan Eksplorasi.pdf
 INPUT C:\Users\Dell\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT Tugas Perorangan.aux
+INPUT Laporan Eksplorasi.aux
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx9.pfb
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx9.pfb
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi9.pfb
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi9.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti9.pfb
-INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti9.pfb
+INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb

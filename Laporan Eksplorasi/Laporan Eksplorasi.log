@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.15)  2 MAR 2022 17:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.15)  23 MAR 2022 12:30
 entering extended mode
-**"c:/Users/Dell/Documents/PhD/Semester 3/Pebelejaran Mesin Lanjut/Tugas/Tugas Perorangan.tex"
-("c:/Users/Dell/Documents/PhD/Semester 3/Pebelejaran Mesin Lanjut/Tugas/Tugas Perorangan.tex"
+**"c:/Users/Dell/Documents/PhD/Semester 3/Pebelejaran Mesin Lanjut/Tugas/Laporan Eksplorasi/Laporan Eksplorasi.tex"
+("c:/Users/Dell/Documents/PhD/Semester 3/Pebelejaran Mesin Lanjut/Tugas/Laporan Eksplorasi/Laporan Eksplorasi.tex"
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -97,45 +97,50 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count188
 \l__pdf_internal_box=\box47
-) ("Tugas Perorangan.aux")
-\openout1 = `"Tugas Perorangan.aux"'.
+)
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
+LaTeX Warning: Unused global option(s):
+    [a4,12px].
+
+("Laporan Eksplorasi.aux")
+\openout1 = `"Laporan Eksplorasi.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
  ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
  ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/Dell/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("Tugas Perorangan.aux") ) 
+{C:/Users/Dell/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("Laporan Eksplorasi.aux") ) 
 Here is how much of TeX's memory you used:
- 1229 strings out of 480900
- 17097 string characters out of 2898803
- 252582 words of memory out of 3000000
- 17138 multiletter control sequences out of 15000+200000
- 541345 words of font info for 58 fonts, out of 3000000 for 9000
+ 1215 strings out of 480900
+ 17113 string characters out of 2898803
+ 252697 words of memory out of 3000000
+ 17130 multiletter control sequences out of 15000+200000
+ 539147 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,27p,284b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "Tugas Perorangan.pdf" (1 page, 105508 bytes).
+ 30i,7n,27p,462b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Laporan Eksplorasi.pdf" (1 page, 84278 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
