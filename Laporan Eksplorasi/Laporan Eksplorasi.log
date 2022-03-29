@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.15)  23 MAR 2022 12:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.15)  29 MAR 2022 08:39
 entering extended mode
 **"c:/Users/Dell/Documents/PhD/Semester 3/Pebelejaran Mesin Lanjut/Tugas/Laporan Eksplorasi/Laporan Eksplorasi.tex"
 ("c:/Users/Dell/Documents/PhD/Semester 3/Pebelejaran Mesin Lanjut/Tugas/Laporan Eksplorasi/Laporan Eksplorasi.tex"
@@ -91,12 +91,78 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-\c@thm=\count187
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip55
+\subfigcapskip=\skip56
+\subfigcaptopadj=\dimen146
+\subfigbottomskip=\skip57
+\subfigcapmargin=\dimen147
+\subfiglabelskip=\skip58
+\c@subfigure=\count187
+\c@lofdepth=\count188
+\c@subtable=\count189
+\c@lotdepth=\count190
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigure.cfg")
+\subfig@top=\skip59
+\subfig@bottom=\skip60
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip61
+\enit@outerparindent=\dimen148
+\enit@toks=\toks27
+\enit@inbox=\box47
+\enit@count@id=\count191
+\enitdp@description=\count192
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/02/28 3.41 The Babel package
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2020/02/28 3.41 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-indonesian\bahasai.ldf"
+Language: bahasai 2017/02/15 v1.0m Bahasa Indonesia support from the babel system
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-indonesian\indonesian.ldf"
+Language: indonesian 2017/02/15 v1.0m Bahasa Indonesia support from the babel system
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/02/28 3.41 Babel common definitions
+\babel@savecnt=\count193
+\U@D=\dimen149
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+))))
+\c@thm=\count195
  ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count188
-\l__pdf_internal_box=\box47
+\l__kernel_color_stack_int=\count196
+\l__pdf_internal_box=\box48
 )
 
 LaTeX Warning: Unused global option(s):
@@ -105,42 +171,176 @@ LaTeX Warning: Unused global option(s):
 ("Laporan Eksplorasi.aux")
 \openout1 = `"Laporan Eksplorasi.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen150
+\scratchbox=\box49
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen151
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks29
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
  ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
  ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+<src/K1.png, id=1, 362.007pt x 217.467pt>
+File: src/K1.png Graphic file (type png)
+<use src/K1.png>
+Package pdftex.def Info: src/K1.png  used on input line 72.
+(pdftex.def)             Requested size: 155.24895pt x 93.26341pt.
+ [1
 
-{C:/Users/Dell/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("Laporan Eksplorasi.aux") ) 
+{C:/Users/Dell/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./src/K1.png>]
+<src/K2.png, id=15, 356.313pt x 217.467pt>
+File: src/K2.png Graphic file (type png)
+<use src/K2.png>
+Package pdftex.def Info: src/K2.png  used on input line 82.
+(pdftex.def)             Requested size: 241.49895pt x 147.39775pt.
+<src/K3.jpeg, id=16, 372.39125pt x 161.60374pt>
+File: src/K3.jpeg Graphic file (type jpg)
+<use src/K3.jpeg>
+Package pdftex.def Info: src/K3.jpeg  used on input line 94.
+(pdftex.def)             Requested size: 241.49895pt x 104.80446pt.
+ [2 <./src/K2.png> <./src/K3.jpeg>]
+<src/K4.png, id=21, 362.007pt x 217.467pt>
+File: src/K4.png Graphic file (type png)
+<use src/K4.png>
+Package pdftex.def Info: src/K4.png  used on input line 106.
+(pdftex.def)             Requested size: 241.49895pt x 145.07497pt.
+<src/K5.jpeg, id=22, 372.39125pt x 161.60374pt>
+File: src/K5.jpeg Graphic file (type jpg)
+<use src/K5.jpeg>
+Package pdftex.def Info: src/K5.jpeg  used on input line 118.
+(pdftex.def)             Requested size: 241.49895pt x 104.80446pt.
+<src/K6.png, id=23, 362.007pt x 217.467pt>
+File: src/K6.png Graphic file (type png)
+<use src/K6.png>
+Package pdftex.def Info: src/K6.png  used on input line 129.
+(pdftex.def)             Requested size: 241.49895pt x 145.07497pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./src/K4.png> <./src/K5.jpeg>]
+<src/K7.png, id=28, 362.007pt x 217.467pt>
+File: src/K7.png Graphic file (type png)
+<use src/K7.png>
+Package pdftex.def Info: src/K7.png  used on input line 138.
+(pdftex.def)             Requested size: 241.49895pt x 145.07497pt.
+<src/K8.png, id=29, 393.47pt x 279.0425pt>
+File: src/K8.png Graphic file (type png)
+<use src/K8.png>
+Package pdftex.def Info: src/K8.png  used on input line 147.
+(pdftex.def)             Requested size: 241.49895pt x 171.26309pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<src/K9.png, id=30, 393.47pt x 279.0425pt>
+File: src/K9.png Graphic file (type png)
+<use src/K9.png>
+Package pdftex.def Info: src/K9.png  used on input line 153.
+(pdftex.def)             Requested size: 241.49895pt x 171.26309pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./src/K6.png> <./src/K7.png>] [5 <./src/K8.png> <./src/K9.png>]
+<src/R1.png, id=43, 356.094pt x 217.467pt>
+File: src/R1.png Graphic file (type png)
+<use src/R1.png>
+Package pdftex.def Info: src/R1.png  used on input line 187.
+(pdftex.def)             Requested size: 241.49895pt x 147.48735pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+<src/R2.png, id=48, 362.007pt x 293.898pt>
+File: src/R2.png Graphic file (type png)
+<use src/R2.png>
+Package pdftex.def Info: src/R2.png  used on input line 199.
+(pdftex.def)             Requested size: 241.49895pt x 196.06305pt.
+ [7 <./src/R1.png> <./src/R2.png>]
+<src/R3.png, id=55, 393.543pt x 411.282pt>
+File: src/R3.png Graphic file (type png)
+<use src/R3.png>
+Package pdftex.def Info: src/R3.png  used on input line 217.
+(pdftex.def)             Requested size: 345.0pt x 360.55489pt.
+ [8 <./src/R3.png>]
+<src/R4.png, id=60, 362.007pt x 217.467pt>
+File: src/R4.png Graphic file (type png)
+<use src/R4.png>
+Package pdftex.def Info: src/R4.png  used on input line 235.
+(pdftex.def)             Requested size: 241.49895pt x 145.07497pt.
+<src/R5.png, id=61, 362.007pt x 217.467pt>
+File: src/R5.png Graphic file (type png)
+<use src/R5.png>
+Package pdftex.def Info: src/R5.png  used on input line 246.
+(pdftex.def)             Requested size: 241.49895pt x 145.07497pt.
+ [9 <./src/R4.png> <./src/R5.png>] [10] ("Laporan Eksplorasi.aux") ) 
 Here is how much of TeX's memory you used:
- 1215 strings out of 480900
- 17113 string characters out of 2898803
- 252697 words of memory out of 3000000
- 17130 multiletter control sequences out of 15000+200000
- 539147 words of font info for 49 fonts, out of 3000000 for 9000
+ 3691 strings out of 480900
+ 54724 string characters out of 2898803
+ 308366 words of memory out of 3000000
+ 19488 multiletter control sequences out of 15000+200000
+ 540873 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,27p,462b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Laporan Eksplorasi.pdf" (1 page, 84278 bytes).
+ 34i,7n,29p,706b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Dell\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Laporan Eksplorasi.pdf" (10 pages, 1052248 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
